@@ -1,0 +1,16 @@
+{
+  "_id": ObjectId("5a4f8b81e8137519d89c5258"),
+  "dataId": "892409",
+  "data": {
+    "percents": [
+      "100.0%",
+      "100.0%",
+      "80.0%"
+    ],
+    "avatar": "http://assets.muniao.com/UploadFiles/image/20170912/e9db18907a4e49b6a69c08fe16752b7f20170912181042753.jpg",
+    "name": "包猪婆小水水"
+  },
+  "url": "http://www.muniao.com/fangdong/892409/",
+  "fetchTime": ISODate("2018-01-05T14:28:17.930Z"),
+  "__v": 0
+}

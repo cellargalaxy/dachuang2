@@ -1,0 +1,33 @@
+{
+  "_id" : ObjectId("5a2831bbbb20e019d0804d8e"),
+  "dataId" : "907321059",
+  "data" : {
+    "orderAccept" : "88.85%",
+    "perConfirm" : "3分钟",
+    "onlineReply" : "100%",
+    "education" : "大专",
+    "position" : "公司职员",
+    "work" : "互联网",
+    "bloodType" : "O型",
+    "hometown" : "廊坊",
+    "location" : "北京",
+    "zodiac" : "兔",
+    "constellation" : "白羊座",
+    "age" : "80后",
+    "gender" : "女",
+    "zmScoreResult" : "信用极好",
+    "zmScore" : "731",
+    "auth" : [
+      "实名认证",
+      "真实头像认证",
+      "芝麻信用"
+    ],
+    "avatar" : "http://image.xiaozhustatic2.com/21/10,0,20,16726,260,260,c3c959e3.jpg",
+    "name" : "丁小烦",
+    "url" : "http://www.xiaozhu.com/fangdong/907321059/no.html",
+    "fangdongId" : "907321059"
+  },
+  "url" : "http://www.xiaozhu.com/fangdong/907321059/",
+  "fetchTime" : ISODate("2017-12-06T18:06:51.058Z"),
+  "__v" : 0
+}
